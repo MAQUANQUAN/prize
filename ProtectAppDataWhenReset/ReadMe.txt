@@ -1,8 +1,3 @@
-增加中英文切换
-相机ZSD关闭处理
-BACK键处理
-PCBA-MMI和整机CTI结果恢复出厂设置保留
-
 恢复出厂设置保留PCBA-MMI和整机CTI结果方法：
 1、在recovery.cpp实现恢复出厂设置保留/data/prize_backup/prize_factory_data文件
 2、通过./frameworks/base/packages/PrizeFactoryDataProvider给工模提供操作/data/prize_backup/prize_factory_data数据库的接口
