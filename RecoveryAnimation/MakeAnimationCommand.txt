@@ -1,0 +1,5 @@
+chcp 65001
+
+set PYTHONIOENCODING=utf-8
+
+python recovery/interlace-frames.py recovery/dido_720p_1.png recovery/dido_720p_2.png recovery/dido_720p_3.png recovery/dido_720p_4.png recovery/dido_720p_5.png recovery/dido_720p_6.png recovery/dido_720p_7.png recovery/dido_720p_8.png recovery/dido_720p_9.png recovery/dido_720p_10.png icon_installing.png
